@@ -1,0 +1,11 @@
+{
+  "name": "object-hash",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/YouHan26/object-hash.git",
+  "author": "youhan26 <youhan26@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "rollup": "^0.68.2"
+  }
+}
